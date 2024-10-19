@@ -3,9 +3,9 @@ require("dotenv").config();
 
 module.exports = {
   //==========================================- MAIN - CONFIGS -==================================================================
-  SESSION_ID: process.env.SESSION_ID || "TYUVnRQS#IMrhGpi4SmKcYXttv1iPdPAb0Yj0zHnio_x23vEAnSQ",
+  SESSION_ID: process.env.SESSION_ID || "QUEENELISA;;;==wdkZ2MLlXaidHRHlzboh3ZrF1RwcDSZ92QMVURVdUTm9mQ5RTWjN2a1dHUjQUaLFFa5UURpwd=52040757749",
   // ADD Your Session Id 
-  MONGODB: process.env.MONGODB || "",
+  MONGODB: process.env.MONGODB || "mongodb+srv://vishwamihi22:vishwamihi22@cluster0.y6r9gav.mongodb.net/",
     // ADD Your MongoDB Database URL
   PREFIX: process.env.PREFIX || ".",
   // Add Your Custom Prefix 
@@ -15,7 +15,7 @@ module.exports = {
   // public = AnyOne Working
   // inbox = Only Working  Inbox
   // groups = only working in group
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "94702481115",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "94775704025",
   //========================================- OTHER - CONFIGS -=====================================================================
   NSFW_CMD: process.env.NSFW_CMD || "false",
   MONGODB: process.env.MONGODB || "mongodb+srv://vishwamihi22:vishwamihi22@cluster0.y6r9gav.mongodb.net/",
